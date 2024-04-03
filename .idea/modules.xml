@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flipkart/flipkart.iml" filepath="$PROJECT_DIR$/flipkart/flipkart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snakeladder.iml" filepath="$PROJECT_DIR$/snakeladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snakeladdercode/snakeladdercode.iml" filepath="$PROJECT_DIR$/snakeladdercode/snakeladdercode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splitwise/splitwise.iml" filepath="$PROJECT_DIR$/splitwise/splitwise.iml" />
+    </modules>
+  </component>
+</project>
